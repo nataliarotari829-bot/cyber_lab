@@ -1,2 +1,1 @@
-# cyber_lab
-AI and cybernetics experimeting with digital control and cibernetics.
+Add README for proiect-cibernetica
